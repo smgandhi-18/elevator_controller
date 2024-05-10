@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------
 -- Filename : priority_encoder.vhdl
--- Author : Antonio Alejandro Andara Lara
+-- Author : Shyama Gandhi
 -- Date : 06-Nov-10-2022
 -- Design Name: 4:2 priority encoder
 -- Module Name: VHDL_essentials

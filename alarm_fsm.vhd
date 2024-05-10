@@ -1,3 +1,17 @@
+----------------------------------------------------------------------------------
+-- Filename : priority_encoder.vhdl
+-- Author : Antonio Alejandro Andara Lara, Shyama Gandhi
+-- Date : 06-Nov-10-2022
+-- Design Name: 4:2 priority encoder
+-- Module Name: VHDL_essentials
+-- Project Name: VHDL_essentials
+-- Description : In this file we will implement a 4:2 lines priority encoder
+-- using positive logic
+-- Additional Comments:
+-- Copyright : University of Alberta, 2022
+-- License : CC0 1.0 Universal
+----------------------------------------------------------------------------------
+
 LIBRARY IEEE;
 USE IEEE.STD_LOGIC_1164.ALL;
 

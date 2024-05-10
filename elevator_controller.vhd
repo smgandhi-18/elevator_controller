@@ -1,13 +1,12 @@
 ------------------------------------------------------------------------
 -- University  : University of Alberta 
+-- Author      : Shyama Gandhi
 -- Course      : ECE-410
--- Title       : <Title of the VHDL file or the project>
--- Lab         : <Lab practice number>
--- Authors     : <Students' name>
--- Student IDs : <Students' ID number>
--- Date        : <Date of file creation or last modification>
-------------------------------------------------------------------------
--- Description : <Brief description of the file or project>
+-- Title       : elevator_controller.vhdl
+-- Date        : 06-Nov-2022
+-- Additional Comments:
+-- Copyright : University of Alberta, 2022
+-- License : CC0 1.0 Universal
 ------------------------------------------------------------------------
 
 LIBRARY IEEE;

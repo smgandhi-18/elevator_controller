@@ -1,6 +1,6 @@
 --------------------------------------------------------------------------------
 -- Filename : keypad_press.vhdl
--- Author : Antonio Alejandro Andara Lara
+-- Author : Shyama Gandhi
 -- Date : 11-Apr-2023
 -- Design Name: keypad press
 -- Project Name: VHDL_essentials
