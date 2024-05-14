@@ -16,5 +16,5 @@ This VHDL file can be used as a module within a larger digital design project fo
 
 ## License
 
-This VHDL code is provided under the CC0 1.0 Universal License, allowing for unrestricted use, modification, and distribution without requiring attribution or permission.
+This VHDL code is provided under the CC0 1.0 Universal License, allowing for unrestricted use, modification, and distribution without requiring attribution or permission. Provide credits to the author(s).
 
